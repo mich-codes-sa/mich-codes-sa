@@ -21,12 +21,8 @@ I'm a community taught full-stack developer with a passion for learning. I got m
 <img align="left" alt="Canva" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <br />
 
-#
-
-<details>
-    <summary><h3>💻 Mich's Coding Journey</h3></summary>
-        I was working on a client's website when I ran into a problem that couldn't be solved using vanilla wordpress and I couldn't find a plugin that did what I wanted it to do, so I looked online and found myself getting into a little bit of basic programming. After that, I found 100Devs. The rest, as they say, is history.
-</details>
+### 💻 Mich's Coding Journey
+I was working on a client's website when I ran into a problem that couldn't be solved using vanilla wordpress and I couldn't find a plugin that did what I wanted it to do, so I looked online and found myself getting into a little bit of basic programming. After that, I found 100Devs. The rest, as they say, is history.
 
 <!--
 **mich-codes-sa/mich-codes-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
