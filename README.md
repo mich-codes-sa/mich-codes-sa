@@ -23,7 +23,7 @@ As a full-stack engineer with a passion for AI, I enjoy tackling complex challen
 
 ### 💻 Mich's Coding Journey
 
-I was working on a client's website when I ran into a problem that couldn't be solved using vanilla wordpress and I couldn't find a plugin that did what I wanted it to do, so I looked online and found myself getting into a little bit of basic programming. After that, I found 100Devs. The rest, as they say, is history.
+<!-- I was working on a client's website when I ran into a problem that couldn't be solved using vanilla wordpress and I couldn't find a plugin that did what I wanted it to do, so I looked online and found myself getting into a little bit of basic programming. After that, I found 100Devs. The rest, as they say, is history.
 
 <!--
 **mich-codes-sa/mich-codes-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
